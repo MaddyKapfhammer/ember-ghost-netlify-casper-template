@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Madelyn Kapfhammer',
-      description: 'maddy.kapfhammer@gmail.com \n www.linkedin.com/in/mkapfhammer',
+      description: 'maddy.kapfhammer@gmail.com     www.linkedin.com/in/mkapfhammer',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
