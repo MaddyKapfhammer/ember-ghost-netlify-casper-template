@@ -1,6 +1,6 @@
 ---
-title: Technologies 
-image: /images/advanced.jpg
+title: A Fast Paced Field 
+image: /images/FastPaced.jpg
 imageMeta:
   attribution:
   attributionLink:
