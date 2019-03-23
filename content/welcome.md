@@ -1,5 +1,5 @@
 ---
-title: Welcome to Ember Ghost
+title: Hello, I'm Madelyn 
 image: /images/welcome.jpg
 imageMeta:
   attribution:
