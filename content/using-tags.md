@@ -1,6 +1,6 @@
 ---
 title: Comp Sci at Dickinson College
-image: /images/FastPaced.jpg
+image: /images/MyOwnWebsite.jpg
 imageMeta:
   attribution:
   attributionLink:
