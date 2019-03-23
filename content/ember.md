@@ -1,5 +1,5 @@
 ---
-title: Why Computer Science
+title: Creating My Website
 image: /images/Structures.jpg
 imageMeta:
   attribution: by Robert Wagner
