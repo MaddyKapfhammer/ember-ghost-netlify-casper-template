@@ -1,6 +1,6 @@
 ---
 title: How Does One Find an Internship?
-image: /images/team.jpg
+image: /images/mountains.jpg
 imageMeta:
   attribution:
   attributionLink:
