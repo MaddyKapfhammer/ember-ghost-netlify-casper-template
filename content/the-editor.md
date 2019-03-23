@@ -1,6 +1,6 @@
 ---
 title: Editing Posts with Ember Ghost
-image: /images/writing.jpg
+image: AViewInMyWorld.jpg
 imageMeta:
   attribution:
   attributionLink:
