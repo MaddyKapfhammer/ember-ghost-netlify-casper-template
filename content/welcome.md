@@ -1,5 +1,5 @@
 ---
-title: Hello, I'm Madelyn 
+title: Nice to Meet You  
 image: /images/welcome.jpg
 imageMeta:
   attribution:
