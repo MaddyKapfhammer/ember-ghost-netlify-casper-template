@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: 'Madelyn Kapfhammer',
-      description: 'Description of me',
+      description: 'maddy.kapfhammer@gmail.com [www.linkedin.com/in/mkapfhammer](www.linkedin.com/in/mkapfhammer)',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
@@ -34,7 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'Built by Madelyn Kapfhammer',
         route: 'page',
-        id: 'chris-manson'
+        id: 'MaddyKapfhammer'
       }]
     }
   };
