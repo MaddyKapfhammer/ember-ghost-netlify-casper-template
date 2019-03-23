@@ -1,6 +1,6 @@
 ---
 title: A View of My World
-image: /images/AViewInMyWorld.jpg
+image: /images/View.jpg
 imageMeta:
   attribution:
   attributionLink:
