@@ -1,5 +1,5 @@
 ---
-title: How Does a Person Find an Internship?
+title: How Does One Find an Internship?
 image: /images/team.jpg
 imageMeta:
   attribution:
