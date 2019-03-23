@@ -1,12 +1,12 @@
 ---
-title: Editing Posts with Ember Ghost
+title: A View of My World
 image: /images/AViewInMyWorld.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: ghost
-date: Tue Jun 12 2018 17:58:54 GMT+0100 (IST)
+author: madelyn
+date: March 23 20194 GMT+0100 (IST)
 tags:
   - getting-started
 ---

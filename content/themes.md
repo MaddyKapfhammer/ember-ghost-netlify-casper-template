@@ -1,12 +1,12 @@
 ---
-title: Setting up your own Ghost theme
+title: It's A Beautiful Day
 image: /images/design.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: ghost
-date: Tue Jun 12 2018 17:49:21 GMT+0100 (IST)
+author: madelyn
+date: March 23 2019 17:49:21 GMT+0100 (IST)
 tags:
   - getting-started
 ---
