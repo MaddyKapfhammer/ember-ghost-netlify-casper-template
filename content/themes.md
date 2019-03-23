@@ -1,6 +1,6 @@
 ---
 title: It's A Beautiful Day
-image: /images/design.jpg
+image: /images/AboveTheClouds.jpg
 imageMeta:
   attribution:
   attributionLink:
