@@ -1,6 +1,6 @@
 ---
 title: Nice to Meet You  
-image: /images/welcome.jpg
+image: /images/madelyn.jpg
 imageMeta:
   attribution:
   attributionLink:
