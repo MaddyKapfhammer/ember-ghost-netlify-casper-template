@@ -24,15 +24,15 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Ember Ghost',
-      description: 'Static Blog System - Built with Ember',
+      title: 'Madelyn Kapfhammer',
+      description: 'Description of me',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Chris Manson',
+        label: 'Built by Madelyn Kapfhammer',
         route: 'page',
         id: 'chris-manson'
       }]
