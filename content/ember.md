@@ -1,6 +1,6 @@
 ---
 title: Why Computer Science
-image: /images/ember.jpg
+image: /images/Structures.jpg
 imageMeta:
   attribution: by Robert Wagner
   attributionLink: https://unsplash.com/photos/OM4TjQwHC1I
