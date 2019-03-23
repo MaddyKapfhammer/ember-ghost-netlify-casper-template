@@ -1,5 +1,5 @@
 ---
-title: A View of My World
+title: A View of My World 1
 image: /images/AViewInMyWorld.jpg
 imageMeta:
   attribution:
