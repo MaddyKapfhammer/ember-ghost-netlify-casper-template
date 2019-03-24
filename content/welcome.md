@@ -27,7 +27,7 @@ I am a first year college student, working very hard to make it through the majo
 ### About me
 Born in Fairfax, Virginia, and raised in Cochranton, Pennsylvania I was (and still am) close to my family. 
 
-![family picture](family.jpg)
+![family picture](/images/family.jpg)s
 
 Being the middle grandchild of seven, my cousins and I were always together, along with my parents, aunts, uncles, and grandparents. The summers were spent on my grandparent's back deck jumping in and out of the pool. As the years went on summers turned into marching band practice, and sleeping in army tents as a camp counselor. 
 
