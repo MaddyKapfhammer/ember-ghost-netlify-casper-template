@@ -11,7 +11,7 @@ tags:
   - getting-started
 ---
 
-Hi, my name is Madelyn, Madelyn Kapfhammer to be exact, but my friends call me Maddy. 
+Hi, my name is Madelyn Kapfhammer but my friends call me Maddy. 
 
 I am a first year college student, working very hard to make it through the major of biology and computer science. Welcome to my journey. 
 
@@ -25,9 +25,9 @@ I am a first year college student, working very hard to make it through the majo
 1. Laughter is key. Sometimes it is so necessary to just take time to laugh a little.
 
 ### About me
-Born in Fairfax, Virginia, and raised in Cochranton, Pennsylvania I was (and still am) close to my family. 
+Born in Fairfax, Virginia, and raised in Cochranton, Pennsylvania I was (and still am) close to my family. My parents, grandparents, aunts, uncles and cousins have impacted me in the most wonderful of ways, and I am forever grateful for their support (and this fantastically color themed photograph with all of them)
 
-![family picture](/images/family.jpg)s
+![family picture](/images/family.jpg)
 
 Being the middle grandchild of seven, my cousins and I were always together, along with my parents, aunts, uncles, and grandparents. The summers were spent on my grandparent's back deck jumping in and out of the pool. As the years went on summers turned into marching band practice, and sleeping in army tents as a camp counselor. 
 
