@@ -25,7 +25,7 @@ I am a first year college student, working very hard to make it through the majo
 1. Laughter is key. Sometimes it is so necessary to just take time to laugh a little.
 
 ### About me
-Born in Fairfax, Virginia, and raised in Cochranton, Pennsylvania I was (and still am) close to my family. My parents, grandparents, aunts, uncles and cousins have impacted me in the most wonderful of ways, and I am forever grateful for their support (and this fantastically color themed photograph with all of them)
+Born in Fairfax, Virginia, and raised in Cochranton, Pennsylvania I was (and still am) close to my family. My parents, grandparents, aunts, uncles and cousins have impacted me in the most wonderful of ways, and I am forever grateful for their support (and this fantastic photograph of all of them). 
 
 ![family picture](/images/family.jpg)
 
