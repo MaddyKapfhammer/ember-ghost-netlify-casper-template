@@ -35,7 +35,7 @@ In high school I was a part of Academic Sports League, going to competitions per
 
 I started studying biology in ninth grade, and found an interest in computer science the same year. I was fascinated with cells and chromosomes and DNA and the internet and binary numbers, and code. Experiences through the rest of my high school career helped me to realize that I truly have a passion for both of these fields.  
 
-Currently, I am studying computer science and biology at [Dickinson College](https://www.dickinson.edu/). Dickinson has been an exciting gateway into meeting the best people, and truly advancing my skills both socially and academically. 
+Currently, I am studying computer science and biology at [Dickinson College](https://www.dickinson.edu). Dickinson has been an exciting gateway into meeting the best people, and truly advancing my skills both socially and academically. 
 
 
 <div style="display:flex">
