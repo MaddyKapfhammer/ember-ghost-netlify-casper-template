@@ -38,14 +38,11 @@ I started studying biology in ninth grade, and found an interest in computer sci
 Currently, I am studying computer science and biology at [Dickinson College](www.dickinson.edu). Dickinson has been an exciting gateway into meeting the best people, and truly advancing my skills both socially and academically. 
 
 
-<div class="container" style="width: 100%;">
- <div class="theme-table-image col-sm-6">
-   <img src="[/images/biology.jpg]">
- </div>
- <div class="theme-table-image col-sm-6">
-   <img src="[/images/computerScience.jpg]">
- </div>
+<div style="display:flex">
+     <div style="flex:1;padding-right:5px;">
+          <img src="[images/biology.jpg]">
+     </div>
+     <div style="flex:1;padding-left:5px;">
+          <img src="[images/computerScience.jpg]">
+     </div>
 </div>
-
-![biology](/images/biology.jpg) ![computer science](/images/computerScience.jpg)
-
