@@ -34,7 +34,7 @@ module.exports = function(environment) {
       }, {
         label: 'Built by Madelyn Kapfhammer',
         route: 'page',
-        id: 'MaddyKapfhammer'
+        id: 'ghost'
       }]
     }
   };
