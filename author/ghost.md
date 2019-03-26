@@ -1,7 +1,7 @@
 ---
-name: Ghost
+name: Madelyn
 id: ghost
-image: /images/ghost-icon.png
+image: /images/madelynicon.jpg
 cover:
 website: https://github.com/empress/ember-ghost
 twitter:
