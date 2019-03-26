@@ -5,7 +5,7 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: madelyn_kapfhammer
+author: Madelyn Kapfhammer
 date: Sat March 23 2019 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started

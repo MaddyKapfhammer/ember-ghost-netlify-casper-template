@@ -8,4 +8,5 @@ twitter:
 facebook:
 location:
 ---
-You can delete this user to remove all the welcome posts
+"Intelligence without ambition is a bird without wings" 
+Salvador Dali 
