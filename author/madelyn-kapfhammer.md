@@ -1,10 +1,11 @@
 ---
 name: Madelyn Kapfhammer
-id: madelyn-kapfhammer
-image:
+id: madelyn_kapfhammer
+image: /images/madelynicon.jpg
 cover:
 website:
-twitter:
+twitter: https://twitter.com/MaddyKapfhammer
+instagram: https://www.instagram.com/maddy.kapfhammer/
 facebook:
 location:
 ---
