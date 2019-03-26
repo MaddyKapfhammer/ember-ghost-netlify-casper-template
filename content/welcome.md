@@ -5,7 +5,7 @@ imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: ghost
+author: madelyn_kapfhammer
 date: Sat March 23 2019 18:59:59 GMT+0100 (IST)
 tags:
   - getting-started
