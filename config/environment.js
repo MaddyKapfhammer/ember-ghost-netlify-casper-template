@@ -31,11 +31,11 @@ module.exports = function(environment) {
       navigation: [{
         label: 'Home',
         route: 'index'
-      }//, {
-      //   label: 'Built by Chris Manson',
-      //   route: 'page',
-      //   id: 'ghost'
-      // }]
+      }, {
+        label: 'Built by Chris Manson',
+        route: 'page',
+        id: 'ghost'
+      }]
     }
   };
 
