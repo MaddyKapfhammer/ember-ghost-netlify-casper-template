@@ -27,5 +27,5 @@ Even crazier than thinking that a first year could apply for an internship, was 
 ###It's not as hard as you think 
 Really, I thought that getting an internship would be like hiking up a mountain in flip flops with nothing to cling on to. In reality, you kind of just have to put yourself out there. Of course, develop your skill sets and always stick to learning more about the field that you're interested in, but also just **apply**. 
 
-#####Keep in mind: I still don't have an internship 
-#####But I will you updated on if this whole strategy works out or not  
+####Keep in mind: I still don't have an internship 
+But I will you updated on if this whole strategy works out or not  
