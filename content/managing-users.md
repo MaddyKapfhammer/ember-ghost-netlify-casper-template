@@ -16,7 +16,7 @@ I'm not going to lie, Google is one of my metaphorical best friends. I use it fo
 ###Internships: 
 The dreaded word for some students, and the highly anticipated for others. Personally, I think that I am a little mixture of both. 
 
-Among coming home for winter break, my wonderful parents talked to me greatly about how amazing of an opportunity an internship would be, and I wholeheartedly agreed with them, despite being slighly terrified. I looked forward to being able to advance my skill set in the field of computer science, and definitely thought that an internship would be the place to do it. 
+Among coming home for winter break, my wonderful parents talked to me greatly about how amazing of an opportunity an internship would be, and I wholeheartedly agreed with them, despite being slighly terrified. I looked forward to being able to advance my skill set in the field of computer science, and definitely thought that an internship would be the place to do it. Honestly, I was increasingly worried about not being skilled enough for the job, or completely messing up an interview, or having absolutely no idea what is going on. I guess that I just **figured it out**. 
 
 ###A first year getting an internship? 
 
