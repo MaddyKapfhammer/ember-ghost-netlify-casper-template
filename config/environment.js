@@ -28,10 +28,10 @@ module.exports = function(environment) {
       description: 'maddy.kapfhammer@gmail.com     www.linkedin.com/in/mkapfhammer',
       coverImage: '/images/blog-cover.jpg',
 
-      // navigation: [{
-      //   label: 'Home',
-      //   route: 'index'
-      // }, {
+      navigation: [{
+        label: 'Home',
+        route: 'index'
+      }//, {
       //   label: 'Built by Chris Manson',
       //   route: 'page',
       //   id: 'ghost'
