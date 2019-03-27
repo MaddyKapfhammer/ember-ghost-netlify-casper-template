@@ -28,16 +28,16 @@ module.exports = function(environment) {
       description: 'maddy.kapfhammer@gmail.com     www.linkedin.com/in/mkapfhammer',
       coverImage: '/images/blog-cover.jpg',
 
-      navigation: [{
-        label: 'Home',
-        route: 'index'
-      }, {
-        label: 'Built by Chris Manson',
-        route: 'page',
-        id: 'ghost'
-      }]
-    }
-  };
+  //     navigation: [{
+  //       label: 'Home',
+  //       route: 'index'
+  //     }, {
+  //       label: 'Built by Chris Manson',
+  //       route: 'page',
+  //       id: 'ghost'
+  //     }]
+  //   }
+  // };
 
   if (environment === 'development') {
     // ENV.APP.LOG_RESOLVER = true;
