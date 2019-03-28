@@ -11,4 +11,5 @@ tags:
   - getting-started
 ---
 
-I signed up for organic chemistry today. 
+#####I signed up for organic chemistry today, don't be fooled though, I am not majoring in Chemistry.
+
