@@ -13,3 +13,4 @@ tags:
 
 #####I signed up for organic chemistry today, don't be fooled though, I am not majoring in Chemistry.
 
+Since high school, biology has been something that always interested me. 
