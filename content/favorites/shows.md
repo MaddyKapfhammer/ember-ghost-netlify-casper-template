@@ -6,3 +6,4 @@ aliases = ["television","hulu", "netflix"]
 author = "Madelyn Kapfhammer"
 +++
 
+Add text for help with netlify pull request.
