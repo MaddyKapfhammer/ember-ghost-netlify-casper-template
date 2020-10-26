@@ -21,7 +21,7 @@
     {{- range .Site.Params.customCss -}}
     {{ $css := resources.Get . | fingerprint }}
     <link rel="stylesheet"
-          href="{{ $css.Permalink }}"
+          href="/custom.css"
           integrity="{{ $css.Data.Integrity }}"
           crossorigin="anonymous"
           type="text/css">
